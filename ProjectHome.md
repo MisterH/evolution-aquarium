@@ -1,0 +1,1 @@
+Loosely based on the aquarium demo from chapter 1 of the Java after hours book. This project builds on that strategy and adds a whole load of extra stuff to give the fish a life of their own. The fish have been converted into vector drawings to enable evolution of physical characteristics.
